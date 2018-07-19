@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(number)
-  integer
+  number(1..10).to_a.each {}
 end
